@@ -1,4 +1,7 @@
-## Hi there 👋
+## 👋 Hi, I'm Sanghwa Lee
+
+I'm an ECE undergraduate at SNU, interested in physics-based simulation, computer graphics, and reinforcement learning.
+
 
 <!--
 **torytony24/torytony24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
