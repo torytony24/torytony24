@@ -2,6 +2,10 @@
 
 I'm an undergraduate at Seoul National University, South Korea. I'm majoring Electrical & Computer Engineering. 
 
+💻 Python, C++ Developer | Graphics & Physics Simulation  
+👨‍💻 ECE Undergrad @ SNU  
+🧠 Currently working on: ML & Computer Vision
+
 ## 🔭 I’m currently working on ...
 
 ## 🌱 I’m currently learning ...
