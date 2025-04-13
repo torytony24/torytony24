@@ -1,6 +1,14 @@
-## 👋 Hi, I'm Sanghwa Lee
+# 👋 Hi, I'm Sanghwa Lee
 
-I'm an ECE undergraduate at SNU, interested in physics-based simulation, computer graphics, and reinforcement learning.
+I'm an undergraduate at Seoul National University, South Korea. I'm majoring Electrical & Computer Engineering. 
+
+## 🔭 I’m currently working on ...
+
+## 🌱 I’m currently learning ...
+
+## 📫 How to reach me: ...
+- 📧 E-mail: torytony24@snu.ac.kr
+- 📜 Blog: [https://velog.io/@torytony24](https://velog.io/@torytony24)
 
 
 <!--
