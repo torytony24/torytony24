@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sanghwa Lee
+# Hi there 👋 
 
 I'm an undergraduate at Seoul National University, South Korea. I'm majoring Electrical & Computer Engineering. 
 
