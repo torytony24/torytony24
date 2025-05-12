@@ -1,31 +1,15 @@
-# Hi there 👋 
+## Hi there 👋 
 
-I'm an undergraduate at Seoul National University, South Korea. I'm majoring Electrical & Computer Engineering. 
+🧑‍💻 **Undergraduate student in Electrical & Computer Engineering**  
+🏛️ _Seoul National University, South Korea_  
+🧠 Currently working on **Machine Learning** & **Computer Vision**
 
-💻 Python, C++ Developer | Graphics & Physics Simulation  
-👨‍💻 ECE Undergrad @ SNU  
-🧠 Currently working on: ML & Computer Vision
+### 🛠️ Tech Stack
 
-## 🔭 I’m currently working on ...
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=OpenGL&logoColor=white) 
 
-## 🌱 I’m currently learning ...
+### 📫 Contact
 
-## 📫 How to reach me: ...
-- 📧 E-mail: torytony24@snu.ac.kr
-- 📜 Blog: [https://velog.io/@torytony24](https://velog.io/@torytony24)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](https://torytony24@gmail.com) [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@torytony24)
 
-
-<!--
-**torytony24/torytony24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=torytony24)](https://solved.ac/torytony24/)
