@@ -9,6 +9,14 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=OpenGL&logoColor=white) 
 
+### 💡 Recent Projects
+
+[![jell-kkagi](https://img.shields.io/badge/Jell--Kkagi-repo-181717?style=flat-square&logo=Github&logoColor=white)](https://github.com/torytony24/Jell-Kkagi)
+
+<img src="https://github.com/user-attachments/assets/ca7da284-52c9-4f17-a0ea-747ada05ea7a" alt="jell-kkagi" width="50%" height="50%">
+
+[![pbd](https://img.shields.io/badge/PBD-repo-181717?style=flat-square&logo=Github&logoColor=white)](https://github.com/torytony24/Position-Based-Dynamics)
+
 ### 📫 Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](https://torytony24@gmail.com) [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@torytony24)
