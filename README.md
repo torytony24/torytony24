@@ -1,8 +1,9 @@
 ## Hi there 👋 
 
-🧑‍💻 **Undergraduate student in Electrical & Computer Engineering**  
-🏛️ _Seoul National University, South Korea_  
-🧠 Currently working on **Machine Learning** & **Computer Vision**
+- **Undergraduate student in Electrical & Computer Engineering**  
+- _Seoul National University, South Korea_  
+- Interested in **Graphics & Physics Simulation**  
+- Currently working on **Computer Vision**
 
 ### 🛠️ Tech Stack
 
