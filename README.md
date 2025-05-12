@@ -13,7 +13,7 @@
 
 [![jell-kkagi](https://img.shields.io/badge/Jell--Kkagi-repo-181717?style=flat-square&logo=Github&logoColor=white)](https://github.com/torytony24/Jell-Kkagi)
 
-<img src="https://github.com/user-attachments/assets/ca7da284-52c9-4f17-a0ea-747ada05ea7a" alt="jell-kkagi" width="50%" height="50%">
+<img src="https://github.com/user-attachments/assets/ca7da284-52c9-4f17-a0ea-747ada05ea7a" alt="jell-kkagi" width="70%" height="70%">
 
 [![pbd](https://img.shields.io/badge/PBD-repo-181717?style=flat-square&logo=Github&logoColor=white)](https://github.com/torytony24/Position-Based-Dynamics)
 
