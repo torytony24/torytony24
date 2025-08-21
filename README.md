@@ -11,7 +11,9 @@
 
 ### 💡 Recent Projects
 
-[![jell-kkagi](https://img.shields.io/badge/Jell--Kkagi-repo-181717?style=flat-square&logo=Github&logoColor=white)](https://github.com/torytony24/Jell-Kkagi) [![pbd](https://img.shields.io/badge/PBD-repo-181717?style=flat-square&logo=Github&logoColor=white)](https://github.com/torytony24/Position-Based-Dynamics)
+[![fastmri](https://img.shields.io/badge/FastMRI-repo-181717?style=flat-square&logo=Github&logoColor=white)](https://github.com/torytony24/FastMRI_challenge)
+[![jell-kkagi](https://img.shields.io/badge/Jell--Kkagi-repo-181717?style=flat-square&logo=Github&logoColor=white)](https://github.com/torytony24/Jell-Kkagi) 
+[![pbd](https://img.shields.io/badge/PBD-repo-181717?style=flat-square&logo=Github&logoColor=white)](https://github.com/torytony24/Position-Based-Dynamics)
 
 ### 📫 Contact
 
