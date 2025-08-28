@@ -11,9 +11,17 @@
 
 ### 💡 Recent Projects
 
+**2025**
+
 [![fastmri](https://img.shields.io/badge/FastMRI-repo-181717?style=flat-square&logo=Github&logoColor=white)](https://github.com/torytony24/FastMRI_challenge)
-[![jell-kkagi](https://img.shields.io/badge/Jell--Kkagi-repo-181717?style=flat-square&logo=Github&logoColor=white)](https://github.com/torytony24/Jell-Kkagi) 
+
+**2024**
+
 [![pbd](https://img.shields.io/badge/PBD-repo-181717?style=flat-square&logo=Github&logoColor=white)](https://github.com/torytony24/Position-Based-Dynamics)
+
+**2023**
+
+[![jell-kkagi](https://img.shields.io/badge/Jell--Kkagi-repo-181717?style=flat-square&logo=Github&logoColor=white)](https://github.com/torytony24/Jell-Kkagi) 
 
 ### 📫 Contact
 
