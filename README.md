@@ -25,6 +25,6 @@
 
 ### 📫 Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](https://torytony24@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](https://torytony24@gmail.com) [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@torytony24)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=torytony24)](https://solved.ac/torytony24/)
