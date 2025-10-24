@@ -3,7 +3,7 @@
 - **Undergraduate student in Electrical & Computer Engineering**  
 - _Seoul National University, South Korea_  
 - Interested in **Graphics & Physics Simulation**  
-- Currently working on **Computer Vision**
+- Currently working on **Novel View Synthesis(NeRF/3DGS)**
 
 ### 🛠️ Tech Stack
 
