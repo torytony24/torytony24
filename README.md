@@ -3,13 +3,16 @@
 - **Undergraduate student in Electrical & Computer Engineering**  
 - _Seoul National University, South Korea_  
 - Interested in **Graphics & Physics Simulation**  
-- Currently working on **Novel View Synthesis(NeRF/3DGS)**
 
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=OpenGL&logoColor=white) 
 
 ### 💡 Recent Projects
+
+**2026**
+
+[![fastmri](https://img.shields.io/badge/Soap--Film-repo-181717?style=flat-square&logo=Github&logoColor=white)](https://github.com/torytony24/graphics_project)
 
 **2025**
 
